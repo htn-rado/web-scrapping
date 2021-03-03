@@ -1,5 +1,6 @@
 {
-  "name": "react-showcase",
+  "homepage": "http://htn-rado.github.io/web-scrapping",
+  "name": "web-scrapping",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
